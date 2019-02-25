@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+}
+
+body {
+	background-image: url("https://static1.squarespace.com/static/59b7b165d7bdce8efdb248ea/59b95767cd39c31688870f94/5ace368888251ba3fcd75942/1540659778064/Sunset+Over+Arran+From+Millport.jpg?format=500w");
+	background-repeat: no-repeat;
+	height:100%;
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	filter: blue(100px);
+	1000px;
+	text-align: justify;
+	font-family: Monotype Corsiva;
+	color: #ffffff;
+	font-size: 100 px;
+}

@@ -1,24 +1,41 @@
-h2 {
-    color: #8B1E3F;
-    text transform: 
+* {
+	margin: 0;
 }
-h1 {color:#333533
+
+body {
+	background-image: url("https://images.fineartamerica.com/images-medium-large-5/dreamy-carnival-ferris-wheel-stars-ferris-wheel-pink-and-white-fairytale-prints-kathy-fornal.jpg");
+	background-repeat: no-repeat;
+	height:100%;
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	filter: blue(8px);
 }
-body{background-color: #A2E3C4}
+	
+.message {
+	
 
-.container {background-color: #EFE9F4}
+padding: 20px;
+	text-align: justify;
+	font-family: Monotype Corsiva;
+	color: #ffffff;
+	font-size: 22px;
+	border: 3px solid #f1f1f1;
+	top: 50%;
+	bottom: 50%;
+	transform: translate(10%, 10%);
+	z-index: 2;
+	width: 80%;
+	background-color: rgb(255,252,232);
+	background-color: rgba(0,0,0,0.4);
 
-body{ background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0389/5740/rryuliussdesign_rockets_shop_preview.png)
 }
-ul{ list-style: none}
-.surname{color:#5E5B52}
-/***Resume Head**/
-H2 {color: #333533}
-#right-col h2{color:pink}
+p {
+	#border-color: #f49242;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
 
-/**Education Experience***/
-#education {margin-top: 2
-    em; }
-H3{color: #FC7A57 }
 
-.me {border-radius: 50%; }
+}
